@@ -1,6 +1,6 @@
 ## 👋 Hola, soy Antonio  
 
-![sonoAESS](https://github.com/user-attachments/assets/59c96c9e-22bc-49c0-a5bf-d69b60990e00)
+![sonoAESS](https://github.com/user-attachments/assets/51805959-7827-4afc-8dcb-1b8d56adfb59)
 
 Soy un estudiante de **ingeniería en bioinformática** apasionado por el **desarrollo web** en el área del **backend**. Mi objetivo es combinar la biología y la tecnología para crear soluciones innovadoras que impacten positivamente en la vida de las personas. 🌱💻
 

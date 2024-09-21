@@ -32,7 +32,7 @@ Aquí encontrarás proyectos que reflejan mis intereses en bioinformática y des
 
 A continuación, puedes ver mis estadísticas de GitHub utilizando el generador de estadísticas:
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=sonoAESS&show_icons=true&theme=radical)
+![Estadísticas de Antonio en GitHub](https://github-readme-stats.vercel.app/api?username=sonoAESS&show_icons=true&theme=great-gatsby)
 <!--
 **sonoAESS/sonoAESS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
